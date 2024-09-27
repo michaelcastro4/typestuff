@@ -1,0 +1,17 @@
+1) Your full name as given in the class list
+	- Michael Castro
+2) Your student ID
+	- 7943201471
+3) What you have done in the assignment
+	- In this assignment I have created two ways of verifing if a string of code is free of any errors through the use of CRC-16 and Checksum functions. 
+4) What your code files are and what each one does (please do not repeat the project description, just
+name your code files and briefly mention their purpose)
+	- I did not create any other code files other than what was asked of in the project description. 
+5) Any idiosyncrasies of your project, including under what conditions the project might fail, if any
+	- I am unaware of my code not performing its function in my following code. If anything, I am concerned the most with the code being converted to the string containing the errors, and then performing checksum and crc-16. That is what I struggled with the most on this project.
+6) Reused code: Did you use code from anywhere for your project? If not, state that. If so, specify
+what functions were reused and where they’re from (also include comments in the source code to identify reused sections).
+	- // For the bitset library I found an example on geeksforgeeks.org where you can easily turn a number into a value of bits in which I use for checksum to make the represenation of crc very easy,exact link: 'https://www.geeksforgeeks.org/cpp-bitset-and-its-application/'
+	For the readfile operation used in the very beginning, I had issues when it came to my code reading the data.txt file. I followed an example on the stackoverflow website that showcased how to read desired files/desired lines of a file, exact link: 'https://stackoverflow.com/questions/19123334/how-to-use-stdgetline-to-read-a-text-file-into-an-array-of-strings-in-c'
+	Lastly, other than the suggested library list, all my code was constructed by me.
+
